@@ -8,17 +8,16 @@
 ## *Technologies*
 
 - **Programming Language:** Python
-- **Libraries:** OS, Requests, JSON, Python-dotenv, MCForecastTools
-- **Software Development Kit:** Alpaca-Trade-API
+- **Libraries:** Hvplot - a Python library for data visualization and Geoviews - a library for visualizing geographical datasets.
+- **Software Development Kit:** none
 - **Framework:** JupyterLab, can also use VS Code
 - **Operating Systems:** Mac OS, Microsoft Windows
 
 ---
 
 ## *Installation Guide*
-1. Confirm installation of libraries: "conda list requests", "conda list json"
-2. Pip install: dotenv, alpaca-trade-api
-3. Create Alpaca account to obtain your API Key and Secret Key. Both of these should be listed in a file called ".env"
+1. Confirm installation of libraries: "conda list hvplot", "conda list geoviews"
+2. Pip install: if not installed or up-to-date, "conda install -c pyviz hvplot geoviews".
     
 ---
 
