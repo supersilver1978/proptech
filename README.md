@@ -58,4 +58,4 @@ There's a lot of factors that go into real estate purchases. However given the d
 
 ## *License*
 
-This software is licensed under GNU General Public License v3.0. See the [LICENSE](https://github.com/djohnst914/Loan_Qualifier_New_Feature/blob/main/LICENSE) file for details. 
+This software is licensed under GNU General Public License v3.0. 
