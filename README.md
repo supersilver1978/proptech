@@ -23,7 +23,7 @@
 
 ## *Usage*
 
-#### Creating a plan for emergencies
+#### Calculate and plot the Housing Units Per Year
 *Step 1: Assessing current value of the portfoloio*
 - We use free APIs for our crypto currency evaluation - 
     btc_url = "https://api.alternative.me/v2/ticker/Bitcoin/?convert=USD"
