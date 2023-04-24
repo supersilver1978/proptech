@@ -25,18 +25,22 @@
 
 #### Calculate and Plot the Housing Units Per Year
 It is clear from the graph below that there is steady growth in the San Franscisco area:
+
 <img width="452" alt="1a_units" src="https://user-images.githubusercontent.com/126728866/234129774-1cc14fdc-84da-4e69-9c26-aa943aa3faf3.png">
 
 #### Calculate and Plot the Average Sale Prices (per sqft)
 You can see that on average there is a steady incline in prices but from 2010 to 2011, there was a slight decrease in prices. This can perhaps be attributed to the tailend of the housing crisis that happened in this time. However, gross rents had a much more aggressive push upwards.
+
 <img width="541" alt="1_overall" src="https://user-images.githubusercontent.com/126728866/234130122-c9ee4448-129b-417c-bfd5-b527a271c3ac.png">
 
 #### Compare the Average Sale Prices by Neighborhood
 If you use the dropdown menu to select neighborhoods, you can view the different growth trajectories for each neighborhood.
+
 <img width="767" alt="2_by_neighborhood" src="https://user-images.githubusercontent.com/126728866/234130237-599d752d-9ac5-41ad-bd9c-325b1e50174a.png">
 
 #### Build an Interactive Map of San Franscisco Neighborhoods
 View the interactive map below. The size of each dot represents the sale prices (per sqft) and there is a hover capability to get the exact data for the neighborhoods that it represents
+
 <img width="660" alt="3_geomap" src="https://user-images.githubusercontent.com/126728866/234131156-4c4223b9-66b8-40cb-8a9f-52f090cd9662.png">
 
 #### Conclusions:
